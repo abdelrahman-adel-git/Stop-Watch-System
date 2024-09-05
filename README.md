@@ -48,7 +48,7 @@ The system is designed to handle real-time timekeeping and user interaction effi
    - **Pause**: Halts the timekeeping process.
    - **Reset**: Resets the stopwatch to zero.
   
-## 🏗️ Simulation of the Stopwatch System
+## 💻 Simulation of the Stopwatch System
 ![image](https://github.com/user-attachments/assets/113a31c3-b0f8-45e3-abef-4e297c04203a)
 
 
